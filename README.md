@@ -1,6 +1,6 @@
 - 👋 Hi, I’m IanZheng
-- 🎶 I’m interested in music of FingerStyle Guitar and all the wonderful songs games ...
-- 🌱 I’m currently learning Front end development & Music theory ...
+- 🎶 I’m fond of music of FingerStyle Guitar 
+- 🌱 My main direction is Front end development
 - 🤗 I hope to make continuous progress every day
 
 <!---
