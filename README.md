@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=120Ian&theme=tokyonight&show_icons=true" width="450">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=120Ian&theme=cobalt&show_icons=true" width="450">
 
 - 👋 Hi, I’m IanZheng
 - 🎶 I’m fond of music of FingerStyle Guitar 
