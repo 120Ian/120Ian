@@ -14,16 +14,6 @@ I'm a **Full-Stack Engineer**
 ![TypeORM](https://img.shields.io/badge/TypeORM-0.3.x-005EFF?style=for-the-badge&logo=typeorm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-auth-orange?style=for-the-badge)
 ![IIS](https://img.shields.io/badge/IIS-deploy-0078D7?style=for-the-badge&logo=microsoft-azure)
----
-<!-- Contact & visitor -->
-<p align="left">
-  <a href="mailto:yourname@example.com">✉️ Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/yourusername">GitHub</a>
-</p>
 
-<p align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername" alt="visitor-badge" />
-</p>
 ## 📈 My Stats
 ![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanZheng&show_icons=true&theme=vue-dark)
